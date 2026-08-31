@@ -23,9 +23,6 @@ AI           agent architecture, tool design, evals, cost control
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusmski1&theme=tokyonight" width="700" alt="Contribution activity" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusmski1&theme=tokyonight" width="340" alt="Top languages by commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheusmski1&theme=tokyonight&utcOffset=-3" width="340" alt="Commits per hour" />
-
 </div>
 
 ###
